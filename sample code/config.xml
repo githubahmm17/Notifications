@@ -22,7 +22,8 @@
 	<!-- required plugins go here -->
     <plugin name="cordova-plugin-dialogs"/>
 
-    <plugin name="cordova-plugin-local-notification"/>
+    <gap:plugin name="cordova-plugin-local-notification" source="npm"/>
+  
 
 
 </widget>
