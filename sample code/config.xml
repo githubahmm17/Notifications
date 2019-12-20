@@ -22,7 +22,7 @@
 	<!-- required plugins go here -->
     <plugin name="cordova-plugin-dialogs"/>
 
-    <plugin name="cordova-plugin-local-notification" version="0.9.0-beta.2" source="pgb"/>
+    <plugin name="cordova-plugin-local-notification" version="0.9.0-beta.2" source="npm"/>
 
 
 
