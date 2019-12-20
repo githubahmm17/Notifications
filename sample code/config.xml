@@ -21,7 +21,9 @@
 	
 	<!-- required plugins go here -->
     <plugin name="cordova-plugin-dialogs"/>
-    <gap:plugin name="cordova-plugin-local-notification" source="npm" />
+    <gap:plugin name="cordova-plugin-local-notification"
+        spec="https://github.com/katzer/cordova-plugin-local-notifications" source="npm" />
+   
 
 
 
